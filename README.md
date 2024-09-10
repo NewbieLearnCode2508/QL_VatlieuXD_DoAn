@@ -3,9 +3,9 @@
 
 | STT | Họ Tên                  | Chức Vụ        |
 |-----|-------------------------|----------------|
-| 1   | Trần Ngọc Hiểu Thảo      | Nhóm trưởng    |
-| 2   | Nguyễn Đức Phát          | Thành viên     |
-| 3   | Dương Thị Phương Thú     | Thành viên     |
+| 1   | Trần Tiến Đạt            | Nhóm trưởng    |
+| 2   | Huỳnh Minh Khang         | Thành viên     |
+| 3   | Trần Gia Bảo             | Thành viên     |
 ---------------------------------------------------
 ## Công nghệ sử dụng
 ### Ứng dụng quản lý (WinForm):
