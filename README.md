@@ -35,11 +35,20 @@ Web: MVC.ASP
 Ngôn ngữ: Javascript
 Framework: Bootstrap
 Nghiệp vụ
+| STT | Họ Tên        | Phân công |
+|-----|---------------|-----------|
+| 1   | Xem sản phẩm  | Bảo       |
+| 2   | Đặt hàng      | Đạt       |
+| 3   | Thanh toán    | Đạt       |
+| 4   | Đặt hàng NCC  | Khang     |
+| 5   | Mua hàng NCC  | Khang     |
+App: Winform
+Ngôn ngữ: C#
 | STT | Họ Tên                                                 | Phân công |
 |-----|--------------------------------------------------------|-----------|
 | 1   | Thêm, cập nhật, xoá sản phẩm trong giỏ                 | Khang     |
 | 2   | Đặt hàng                                               | Đạt       |
-| 3   | Thanh toán thẻ, ví, tiền mặt                           | Đạt       |
+| 3   | Thanh toán                                             | Đạt       |
 | 4   | Đăng nhập, đăng xuất                                   | Khang     |
 | 5   | Kiểm tra tài khoản                                     | Bảo       |
 | 6   | Quản lý (đơn hàng, khách hàng, sản phẩm, nhà cung cấp) | Bảo       |
