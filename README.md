@@ -66,5 +66,8 @@ Ngôn ngữ: C#
 - Thêm vào giỏ hàng
 - Tìm kiếm sản phẩm
 ### App (winform) :
-- Chức năng 1
-- Chức năng 2
+- Quản lý đơn hàng (Cập nhật)
+- Quản lý khách hàng (Thêm, cập nhật, tra cứu thông tin khách hàng)
+- Quản lý sản phẩm (Thêm, cập nhật, tra cứu thông tin sản phẩm)
+- Quản lý nhà cung cấp (Thêm, cập nhật, tra cứu thông tin nhà cung cấp)
+- Thống kê và báo cáo (Doanh thu, tra cứu đơn hàng theo thời gian cụ thể)
