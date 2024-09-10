@@ -21,6 +21,9 @@
 - Công cụ phát triển: Visual Studio Code
 -------------------------------------------------
 ## Chi Tiết
+
+![image](https://github.com/user-attachments/assets/dc4b3c3f-c024-443c-866d-146fdbfbcc78)
+
 -------------------------------------------------
 # Dự án
 ## Hệ thống quản lý mua bán vật liệu xây dựng
