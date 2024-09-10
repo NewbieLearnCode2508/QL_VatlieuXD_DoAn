@@ -52,8 +52,11 @@ Ngôn ngữ: C#
 | 3   | Thanh toán                                             | Đạt       |
 | 4   | Đăng nhập, đăng xuất                                   | Khang     |
 | 5   | Kiểm tra tài khoản                                     | Bảo       |
-| 6   | Quản lý (đơn hàng, khách hàng, sản phẩm, nhà cung cấp) | Bảo       |
-| 7   | Thống kê, báo cáo                                      | Đạt       |
+| 6   | Quản lý đơn hàng                                       | Bảo       |
+| 7   | Quản lý khách hàng                                     |           |
+| 8   | Quản lý sản phẩm                                       |           |
+| 9   | Quản lý nhà cung cấp                                   |           |
+| 10   | Thống kê, báo cáo                                     | Đạt       |
 ----------------------------------------------------------------------------
 ## Chức năng
 ### Website :
