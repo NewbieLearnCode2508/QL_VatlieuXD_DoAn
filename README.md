@@ -35,15 +35,16 @@ Web: MVC.ASP
 Ngôn ngữ: Javascript
 Framework: Bootstrap
 Nghiệp vụ
-| STT | Họ Tên                  | Phân công        |
-|-----|-------------------------|----------------|
-| 1   | Thêm, cập nhật, xoá     |                |
-|     |sản phẩm trong giỏ       | Nhóm trưởng    |
-| 2   | Đặt hàng                | Thành viên     |
-| 3   | Thanh toán thẻ, ví,     |                |
-|     |tiền mặt                 | Thành viên     |
-| 4   | Đăng nhập, đăng xuất    | Thành viên     |
----------------------------------------------------
+| STT | Họ Tên                                                 | Phân công |
+|-----|--------------------------------------------------------|-----------|
+| 1   | Thêm, cập nhật, xoá sản phẩm trong giỏ                 | Khang     |
+| 2   | Đặt hàng                                               | Đạt       |
+| 3   | Thanh toán thẻ, ví, tiền mặt                           | Đạt       |
+| 4   | Đăng nhập, đăng xuất                                   | Khang     |
+| 5   | Kiểm tra tài khoản                                     | Bảo       |
+| 6   | Quản lý (đơn hàng, khách hàng, sản phẩm, nhà cung cấp) | Bảo       |
+| 7   | Thống kê, báo cáo                                      | Đạt       |
+-----------------------------------------------------------------------------------
 ### App
 ## Chức năng
 ### Website :
