@@ -37,9 +37,12 @@ Framework: Bootstrap
 Nghiệp vụ
 | STT | Họ Tên                  | Phân công        |
 |-----|-------------------------|----------------|
-| 1   | Tìm kiếm sản       | Nhóm trưởng    |
-| 2   | Nguyễn Đức Phát          | Thành viên     |
-| 3   | Dương Thị Phương Thú     | Thành viên     |
+| 1   | Thêm, cập nhật, xoá     |                |
+|     |sản phẩm trong giỏ       | Nhóm trưởng    |
+| 2   | Đặt hàng                | Thành viên     |
+| 3   | Thanh toán thẻ, ví,     |                |
+|     |tiền mặt                 | Thành viên     |
+| 4   | Đăng nhập, đăng xuất    | Thành viên     |
 ---------------------------------------------------
 ### App
 ## Chức năng
