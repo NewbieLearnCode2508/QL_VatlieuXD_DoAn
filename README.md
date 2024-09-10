@@ -28,10 +28,16 @@
 # Dự án
 ## Hệ thống quản lý mua bán vật liệu xây dựng
 ### Mô tả dự án
+Hệ thống quản lý mua bán vật liệu xây dựng là một giải pháp phần mềm được thiết kế để tối ưu hóa các quy trình quản lý và điều hành cho các doanh nghiệp hoạt động trong ngành xây dựng. Hệ thống này nhằm cải thiện việc quản lý kho hàng, đơn hàng, quan hệ khách hàng, và nhà cung cấp, đồng thời áp dụng A.I để gợi ý sản phẩm khi người dùng xem hàng và đặt hàng.
 ### Yêu cầu :
-| STT | Họ Tên                  | Chức Vụ        |
+A.I: gợi ý sản phẩm
+Web: MVC.ASP
+Ngôn ngữ: Javascript
+Framework: Bootstrap
+Nghiệp vụ
+| STT | Họ Tên                  | Phân công        |
 |-----|-------------------------|----------------|
-| 1   | Trần Ngọc Hiểu Thảo      | Nhóm trưởng    |
+| 1   | Tìm kiếm sản       | Nhóm trưởng    |
 | 2   | Nguyễn Đức Phát          | Thành viên     |
 | 3   | Dương Thị Phương Thú     | Thành viên     |
 ---------------------------------------------------
