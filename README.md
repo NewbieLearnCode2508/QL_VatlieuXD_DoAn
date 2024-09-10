@@ -38,8 +38,13 @@
 ### App
 ## Chức năng
 ### Website :
-- Chức năng 1
-- Chức năng 2
+- Xem sản phẩm
+- Đặt hàng
+- Thêm vào giỏ hàng
+- Đăng ký, đăng nhập tài khoản
+- Quản lý tài khoản
+- Thêm vào giỏ hàng
+- Tìm kiếm sản phẩm
 ### App (winform) :
 - Chức năng 1
 - Chức năng 2
