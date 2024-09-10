@@ -55,7 +55,6 @@ Ngôn ngữ: C#
 | 6   | Quản lý (đơn hàng, khách hàng, sản phẩm, nhà cung cấp) | Bảo       |
 | 7   | Thống kê, báo cáo                                      | Đạt       |
 ----------------------------------------------------------------------------
-### App
 ## Chức năng
 ### Website :
 - Xem sản phẩm
