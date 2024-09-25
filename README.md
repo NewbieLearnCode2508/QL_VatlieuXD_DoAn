@@ -37,38 +37,36 @@ Framework: Bootstrap <br>
 Nghiệp vụ
 | STT | Họ Tên        | Phân công |
 |-----|---------------|-----------|
-| 1   | Xem sản phẩm  | Bảo       |
+| 1   | Xem sản phẩm  | Khang     |
 | 2   | Đặt hàng      | Đạt       |
 | 3   | Thanh toán    | Đạt       |
-| 4   | Đặt hàng NCC  | Khang     |
-| 5   | Mua hàng NCC  | Khang     |
+| 4   | Đặt hàng NCC  | Bảo       |
+| 5   | Mua hàng NCC  | Đạt       |
 -----------------------------------
 App: Winform <br>
 Ngôn ngữ: C#
 | STT | Họ Tên                                                 | Phân công |
 |-----|--------------------------------------------------------|-----------|
-| 1   | Thêm, cập nhật, xoá sản phẩm trong giỏ                 | Khang     |
-| 2   | Đặt hàng                                               | Đạt       |
+| 1   | Quản lý sản phẩm trong đơn hàng                        | Khang     |
+| 2   | Đặt hàng                                               | Bảo       |
 | 3   | Thanh toán                                             | Đạt       |
 | 4   | Đăng nhập, đăng xuất                                   | Khang     |
 | 5   | Kiểm tra tài khoản                                     | Bảo       |
-| 6   | Quản lý đơn hàng                                       | Bảo       |
-| 7   | Quản lý khách hàng                                     |           |
-| 8   | Quản lý sản phẩm                                       |           |
-| 9   | Quản lý nhà cung cấp                                   |           |
-| 10   | Thống kê, báo cáo                                     | Đạt       |
+| 6   | Quản lý khách hàng                                     | Khang     |
+| 7   | Quản lý sản phẩm                                       | Bảo       |
+| 8   | Quản lý nhà cung cấp                                   | Khang     |
+| 9   | Thống kê, báo cáo                                      | Đạt       |
 ----------------------------------------------------------------------------
 ## Chức năng
 ### Website :
 - Xem sản phẩm
 - Đặt hàng
-- Thêm vào giỏ hàng
+- Quản lý vào giỏ hàng
 - Đăng ký, đăng nhập tài khoản
 - Quản lý tài khoản
-- Thêm vào giỏ hàng
 - Tìm kiếm sản phẩm
 ### App (winform) :
-- Quản lý đơn hàng (Cập nhật)
+- Quản lý đơn hàng (Thêm, cập nhật, tra cứu sản phẩm trong đơn hàng)
 - Quản lý khách hàng (Thêm, cập nhật, tra cứu thông tin khách hàng)
 - Quản lý sản phẩm (Thêm, cập nhật, tra cứu thông tin sản phẩm)
 - Quản lý nhà cung cấp (Thêm, cập nhật, tra cứu thông tin nhà cung cấp)
