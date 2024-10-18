@@ -47,13 +47,13 @@ App: Winform <br>
 Ngôn ngữ: C#
 | STT | Họ Tên                                                 | Phân công |
 |-----|--------------------------------------------------------|-----------|
-| 1   | Quản lý sản phẩm trong đơn hàng                        | Khang     |
-| 2   | Đặt hàng                                               | Bảo       |
-| 3   | Thanh toán                                             | Đạt       |
+| 1   | Quản lý đơn hàng                                       | Bảo       |
+| 2   | Quản lý nhân viên                                      | Khang     |
+| 3   | Phiếu nhập                                             | Đạt       |
 | 4   | Đăng nhập, đăng xuất                                   | Khang     |
 | 5   | Kiểm tra tài khoản                                     | Bảo       |
-| 6   | Quản lý khách hàng                                     | Khang     |
-| 7   | Quản lý sản phẩm                                       | Bảo       |
+| 6   | Quản lý khách hàng                                     | Bảo       |
+| 7   | Quản lý sản phẩm                                       | Khang     |
 | 8   | Quản lý nhà cung cấp                                   | Khang     |
 | 9   | Thống kê, báo cáo                                      | Đạt       |
 ----------------------------------------------------------------------------
@@ -69,5 +69,7 @@ Ngôn ngữ: C#
 - Quản lý đơn hàng (Thêm, cập nhật, tra cứu sản phẩm trong đơn hàng)
 - Quản lý khách hàng (Thêm, cập nhật, tra cứu thông tin khách hàng)
 - Quản lý sản phẩm (Thêm, cập nhật, tra cứu thông tin sản phẩm)
+- Quản lý nhân viên (Thêm, cập nhật, tra cứu thông tin nhân viên)
 - Quản lý nhà cung cấp (Thêm, cập nhật, tra cứu thông tin nhà cung cấp)
+- Quản lý phiếu nhập.
 - Thống kê và báo cáo (Doanh thu, tra cứu đơn hàng theo thời gian cụ thể)
