@@ -1,0 +1,17 @@
+{
+  "name": "hungds99.github.io",
+  "version": "1.0.0",
+  "description": "* Đề Tài: WEBSITE Bán Giày và Phụ Kiện\r   * GVHD: Võ Công Đình",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "mssql": "^11.0.1"
+  }
+}
